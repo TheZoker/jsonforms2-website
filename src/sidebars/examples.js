@@ -5,6 +5,7 @@ module.exports = {
     'categorization',
     'layouts',
     'array',
+    'object',
     'rule',
     'custom-controls',
     'gen-uischema',
